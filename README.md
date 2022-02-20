@@ -36,4 +36,4 @@
 
 
 
-![home page](./resource/home page.png)
+![home page](./resource/home-page.png)
