@@ -6,13 +6,13 @@
 
 
 
-# ![#](/Users/aaron/Documents/GitHub/font-end-practice/resource/RGB.png)
+# ![#](./resource/RGB.png)
 
 
 
 ## 2. Dynamic Login Icon
 
-<video src="/Users/aaron/Documents/GitHub/font-end-practice/resource/login.mov"></video>
+<video src="./resource/login.mov"></video>
 
 ## 3. static-practice
 
@@ -20,7 +20,7 @@
 
 
 
-![gallery02](/Users/aaron/Documents/GitHub/font-end-practice/resource/gallery02.png)
+![gallery02](./resource/gallery02.png)
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-![gallery01](/Users/aaron/Documents/GitHub/font-end-practice/resource/gallery01.png)
+![gallery01](./resource/gallery01.png)
 
 
 
@@ -36,4 +36,4 @@
 
 
 
-![home page](/Users/aaron/Documents/GitHub/font-end-practice/resource/home page.png)
+![home page](./resource/home page.png)
