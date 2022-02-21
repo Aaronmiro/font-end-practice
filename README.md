@@ -1,4 +1,4 @@
-# font-end-practice
+# Font-end Practices
 
 
 
@@ -21,9 +21,17 @@ https://user-images.githubusercontent.com/46133813/154869869-111ea73f-bb19-4258-
 
 
 
-## 3. static-practice
+## 3. Static Practices
 
-### 3.1 Gallery 01
+### 3.1 Candy Website
+
+
+
+https://user-images.githubusercontent.com/46133813/154870697-f2a9b799-60c1-4cfd-9489-fefb853a907f.mov
+
+
+
+### 3.2 The Gallery 01
 
 
 
@@ -31,7 +39,7 @@ https://user-images.githubusercontent.com/46133813/154869869-111ea73f-bb19-4258-
 
 
 
-### 3.2 Gallery 02
+### 3.3 The Gallery 02
 
 
 
@@ -39,7 +47,7 @@ https://user-images.githubusercontent.com/46133813/154869869-111ea73f-bb19-4258-
 
 
 
-### 3.3 Home Page
+### 3.4 A Home Page
 
 
 
